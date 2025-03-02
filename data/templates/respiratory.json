@@ -1,0 +1,22 @@
+{
+  "id": "respiratory",
+  "name": "Respiratory Examination",
+  "keywords": [
+    "cough",
+    "shortness of breath",
+    "SOB",
+    "wheezing",
+    "chest pain",
+    "sputum",
+    "pneumonia",
+    "bronchitis",
+    "asthma",
+    "COPD"
+  ],
+  "template": {
+    "subjective": "Patient presents with respiratory symptoms including [SYMPTOMS]. History of [HISTORY].",
+    "objective": "Vital signs: [VITALS]. Lung examination: [LUNG_EXAM]. Oxygen saturation: [O2_SAT]%.",
+    "assessment": "Assessment: [DIAGNOSIS].",
+    "plan": "Plan: [TREATMENT]. [MEDICATIONS]. Follow up in [TIMEFRAME]."
+  }
+}

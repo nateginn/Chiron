@@ -1,0 +1,22 @@
+{
+  "id": "knee_exam",
+  "name": "Knee Examination",
+  "keywords": [
+    "knee",
+    "joint",
+    "pain",
+    "swelling",
+    "mobility",
+    "arthritis",
+    "meniscus",
+    "ACL",
+    "MCL",
+    "patella"
+  ],
+  "template": {
+    "subjective": "Patient presents with knee pain. [SYMPTOMS]. Patient reports [HISTORY].",
+    "objective": "Examination of the knee reveals [FINDINGS]. Range of motion is [ROM]. [TESTS].",
+    "assessment": "Assessment: [DIAGNOSIS].",
+    "plan": "Plan: [TREATMENT]. Follow up in [TIMEFRAME]."
+  }
+}

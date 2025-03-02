@@ -1,0 +1,20 @@
+{
+  "id": "headache",
+  "name": "Headache Evaluation",
+  "keywords": [
+    "headache",
+    "migraine",
+    "pain",
+    "aura",
+    "nausea",
+    "vomiting",
+    "photophobia",
+    "neurological"
+  ],
+  "template": {
+    "subjective": "Patient presents with headache. [SYMPTOMS]. Patient reports [HISTORY].",
+    "objective": "Vital signs: [VITALS]. Neurological examination: [NEURO_EXAM].",
+    "assessment": "Assessment: [DIAGNOSIS].",
+    "plan": "Plan: [TREATMENT]. [MEDICATIONS]. Follow up as needed."
+  }
+}
