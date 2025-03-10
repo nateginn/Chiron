@@ -1,0 +1,15 @@
+{
+  "patient_name": "Brenda Carr",
+  "date": "8/8/2024",
+  "pain_data": {
+    "headache": {
+      "side": "Both",
+      "scale": "7/10",
+      "descriptiveTerms": [
+        "Dull"
+      ],
+      "frequency": "Frequent(75%)",
+      "comparison": "Same"
+    }
+  }
+}

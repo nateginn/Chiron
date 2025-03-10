@@ -1,0 +1,63 @@
+{
+  "Legal_Name": "Edis Sinsor",
+  "Date_of_Visit": "08-09-2024",
+  "Date_of_Injury": "08-15-2024",
+  "Previous_Symptoms": "Yes",
+  "Areas_of_Pain": [
+    "Right hip",
+    "Right knee",
+    "Right shin"
+  ],
+  "Pain_Rating": "8",
+  "Symptoms_Descriptions": {
+    "Headache": "No",
+    "Tingling/numbness in hands": "Yes",
+    "Chest Pain": "No",
+    "Unexplained weight loss": "No",
+    "Achiness": "No",
+    "Neck Pain/Stiffness": "No",
+    "Tingling/Numbness in legs/toes": "Yes",
+    "Knee Pain": "No",
+    "Fatigue": "No",
+    "Throbbing": "Yes",
+    "Back/Pain/Stiffness": "No",
+    "Loss of balance/dizziness": "No",
+    "Hip Pain": "No",
+    "Night Sweats": "No",
+    "Sharp Pain": "Yes",
+    "Shoulder Pain": "No",
+    "Shortness of Breath": "No",
+    "Fever": "No",
+    "Blood in Urine": "No",
+    "Deep Pain": "Yes",
+    "Night Pain": "Yes",
+    "Pain unrelieved by rest": "No",
+    "Dull pain": "No",
+    "Burning Pain": "No",
+    "Stiffness": "No",
+    "Other": "No"
+  },
+  "Activities_that_Increase_Pain": "Walking",
+  "Activities_that_Relieve_Pain": "Stretching, Warm shower",
+  "MRI_or_XRay": "No",
+  "Primary_Physician": "Dr. Olligmueller",
+  "Pregnancy_Status": "No",
+  "Medications": [
+    "Tylenol",
+    "Imprison",
+    "Prednisone",
+    "Flexiril"
+  ],
+  "Allergies": "None",
+  "Previous_Surgeries": [
+    "Right Ankle",
+    "Left Knee",
+    "Hernia surgery"
+  ],
+  "Metal_Implants": "No",
+  "Personal_History": [
+    "Cancer",
+    "Diabetes",
+    "Heart Disease"
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "legal_name": "Carlos Sisneros",
+  "preferred_name": "",
+  "pronouns": "he/him",
+  "gender": "male",
+  "date_of_birth": "10/11/1987",
+  "social_security_number": "646-03-8193",
+  "address": {
+    "street": "722 Trailblust Dr",
+    "city": "Milliken",
+    "state": "CO",
+    "zip": "80543"
+  },
+  "phone": {
+    "home": "719-859-1723"
+  },
+  "employer": "GO Veridene UC",
+  "occupation": "Operations Manager",
+  "work_phone": "765-859-1723",
+  "emergency_contact": {
+    "name": "Genevive Sisneros",
+    "phone": ""
+  },
+  "date_of_injury": "8/15/2024",
+  "similar_symptoms_before": "No",
+  "areas_of_pain": [
+    "Right Hip",
+    "Right Knee",
+    "Right Shin"
+  ],
+  "pain_rating": {
+    "scale": {
+      "0": "No pain",
+      "10": "Hospitalization"
+    },
+    "rating": 8
+  },
+  "primary_physician": "Dr. Olligmueller",
+  "how_you_heard_about_us": "",
+  "handedness": "Right Handed",
+  "pregnant": "No",
+  "mri_or_xray": {
+    "status": "No",
+    "clinic": ""
+  },
+  "medications": [
+    "Tylenol",
+    "Imuprofen",
+    "Benedryl",
+    "Flexril"
+  ],
+  "allergies": "None",
+  "previous_surgeries": [
+    "Right Ankle",
+    "Left Knee",
+    "Hernia Surgery"
+  ],
+  "metal_implants": "No",
+  "personal_history": {
+    "cancer": "No",
+    "diabetes": "No",
+    "heart_disease": "No",
+    "stroke": "No",
+    "spine_problems": "No"
+  },
+  "symptoms_checklist": {
+    "headache": "Yes",
+    "tingling_numbness_hands": "Yes",
+    "neck_pain_stiffness": "Yes",
+    "tingling_numbness_legs_toes": "No",
+    "back_pain_stiffness": "Yes",
+    "shoulder_pain": "Yes",
+    "shortness_of_breath": "No",
+    "night_pain": "Yes",
+    "pain_unrelieved_by_rest": "Yes",
+    "chest_pain": "No",
+    "unexplained_weight_loss": "No",
+    "knee_pain": "Yes",
+    "fatigue": "No",
+    "throbbing": "Yes",
+    "hip_pain": "Yes",
+    "night_sweats": "No",
+    "fever": "No",
+    "blood_in_urine": "No",
+    "deep_pain": "No",
+    "dull_pain": "Yes",
+    "burning_pain": "No",
+    "stiffness": "Yes"
+  },
+  "activities_increase_pain": "Walking",
+  "activities_relieve_pain": [
+    "Stretching",
+    "Warm shower"
+  ]
+}

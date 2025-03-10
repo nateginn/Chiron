@@ -1,0 +1,56 @@
+{
+  "Legal_Name": "Ivan van Reitzenstein",
+  "Preferred_Name": "Ivan",
+  "Pronouns": "he/him",
+  "Gender": "Male",
+  "Date_of_Birth": "9/30/1987",
+  "Social_Security_Number": "333-33-3333",
+  "Address": {
+    "Street": "75 Street Rd",
+    "City": "Greeley",
+    "State": "CO",
+    "Zip": "80634"
+  },
+  "Phone": "970-334-0799",
+  "Email": "ivanreitz@gmail.com",
+  "Employer": "TJB",
+  "Occupation": "Sales",
+  "Work_Phone": "816-351-2176",
+  "Emergency_Contact": {
+    "Name": "Amy Hudge"
+  },
+  "Date_of_Visit": "8/9/21",
+  "Symptoms_Previous": "No",
+  "Areas_of_Pain": [
+    "Lower right back rib",
+    "Left shoulder"
+  ],
+  "Pain_Rating": 2,
+  "Primary_Physician": "Dr. Waugh",
+  "Referral": "Google",
+  "Handedness": "Left Handed",
+  "Pregnant": "No",
+  "MRI_or_XRay": "No",
+  "Medications": "None",
+  "Allergies": "None",
+  "Previous_Surgeries": "Hernia, groin, 2015",
+  "Metal_Implants": "No",
+  "Personal_History": {
+    "Cancer": "No",
+    "Diabetes": "No",
+    "Heart_Disease": "No",
+    "Stroke": "No",
+    "Spine_Problems": "No"
+  },
+  "Other_Serious_Illnesses": "",
+  "Symptoms": {
+    "Headache": "No",
+    "Neck_Pain": "No",
+    "Back_Pain": "No",
+    "Shoulder_Pain": "Yes",
+    "Night_Pain": "No",
+    "Other": ""
+  },
+  "Activities_Increase_Pain": "",
+  "Activities_Relieve_Pain": ""
+}

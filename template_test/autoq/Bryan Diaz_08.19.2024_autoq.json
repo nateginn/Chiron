@@ -1,0 +1,32 @@
+{
+  "Name": "Bryan Diaz",
+  "Date": "3-13-2024",
+  "Date of Accident": "2/16/2024",
+  "Brief Description of Accident": "34 Hwy going up. Other car veered into my lane - swerved to miss. Saw on roads fish tailed and other car hit me.",
+  "Describe any Secondary Collisions": "No other.",
+  "Do you recall striking anything inside the vehicle": "Yes",
+  "Type of Vehicle you were in": {
+    "Make": "Ford",
+    "Model": "F150",
+    "Year": 2015,
+    "Estimated Speed": "30 mph"
+  },
+  "Type of Vehicle the Other Driver Was In": {
+    "Model": "Unknown",
+    "Estimated Speed": "40 mph"
+  },
+  "Describe Damage to Vehicle": "Heavy",
+  "After the Accident Vehicle Drivable": "Yes",
+  "Were you Driver or Passenger": "Driver",
+  "Did Police Arrive": "Yes",
+  "ER/Urgent Care/Hospitalizations Related to Crash": "No",
+  "Visibility": "Average",
+  "Time of Day": "Daylight",
+  "Road Conditions": "Dry",
+  "Looking Direction at Time of Impact": "Straight ahead",
+  "Was Your Foot on the Brake": "No",
+  "Were You Braced for Impact": "Yes",
+  "Wearing Seatbelt": "Yes",
+  "Did Your Airbag Deploy": "No",
+  "Headrest Adjustment": "Adjusted properly"
+}
